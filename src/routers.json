@@ -1,0 +1,8 @@
+{
+    "Public_Art":[
+        {"id": 1, "routeNo": 1, "info": "Murals"}
+    ],
+    "Arm_Chair":[
+        {"id": 2, "routeNo": 2, "info": "Arm Chair"}
+    ]
+}
